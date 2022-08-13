@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anirudhkumar.github.io/static/css/main.92615c94.css",
-    "main.js": "/anirudhkumar.github.io/static/js/main.361aec8b.js",
+    "main.css": "/anirudhkumar.github.io/static/css/main.5b1dca54.css",
+    "main.js": "/anirudhkumar.github.io/static/js/main.b13c0810.js",
     "static/js/787.e653f7e6.chunk.js": "/anirudhkumar.github.io/static/js/787.e653f7e6.chunk.js",
     "index.html": "/anirudhkumar.github.io/index.html",
-    "main.92615c94.css.map": "/anirudhkumar.github.io/static/css/main.92615c94.css.map",
-    "main.361aec8b.js.map": "/anirudhkumar.github.io/static/js/main.361aec8b.js.map",
+    "main.5b1dca54.css.map": "/anirudhkumar.github.io/static/css/main.5b1dca54.css.map",
+    "main.b13c0810.js.map": "/anirudhkumar.github.io/static/js/main.b13c0810.js.map",
     "787.e653f7e6.chunk.js.map": "/anirudhkumar.github.io/static/js/787.e653f7e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92615c94.css",
-    "static/js/main.361aec8b.js"
+    "static/css/main.5b1dca54.css",
+    "static/js/main.b13c0810.js"
   ]
 }
